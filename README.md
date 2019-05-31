@@ -4,7 +4,7 @@ The objective of this project is to learn react its state and how to change the 
 
 # Demo
 
-[demo-netlify](https://peaceful-noether-1b0670.netlify.com/)
+[demo-netlify](https://react-state-d27409.netlify.com)
 
 # Author
 
